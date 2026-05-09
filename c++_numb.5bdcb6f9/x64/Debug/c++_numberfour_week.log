@@ -1,0 +1,8 @@
+﻿  c++_numberfour_week.cpp
+D:\FFmpeg\code\c++_numberfour_week\RTPHeader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“c++_numberfour_week.cpp”)
+  
+D:\FFmpeg\code\c++_numberfour_week\c++_numberfour_week.cpp(162,67): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  c++_numberfour_week.vcxproj -> D:\FFmpeg\code\c++_numberfour_week\x64\Debug\c++_numberfour_week.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
